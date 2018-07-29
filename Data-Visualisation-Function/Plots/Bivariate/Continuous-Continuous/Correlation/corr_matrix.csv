@@ -1,0 +1,5 @@
+"","Sales","Quantity","Discount","Profit"
+"Sales",1,0.2,-0.03,0.48
+"Quantity",0.2,1,0.01,0.07
+"Discount",-0.03,0.01,1,-0.22
+"Profit",0.48,0.07,-0.22,1
